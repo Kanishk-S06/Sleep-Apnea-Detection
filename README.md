@@ -1,6 +1,7 @@
 # 🛌 Sleep Apnea Detection using Multi-Modal Deep Learning (Colab)
 
-This project is a deep learning-based system for detecting **sleep apnea** using data collected from wearable devices. The models are implemented and executed in a single **Google Colab notebook**, making it easy to test and demonstrate without local setup.
+This project is a deep learning-based system for detecting sleep apnea using data collected from wearable devices. The models are implemented and executed in Google Colab notebooks, making it easy to test and demonstrate without local setup.
+
 
 ---
 
