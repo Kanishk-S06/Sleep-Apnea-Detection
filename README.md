@@ -44,15 +44,6 @@ This vibration feedback can be integrated with a **smartwatch or wearable device
 
 ---
 
-## 📁 Contents
-
-- `Sleep_Apnea_Detection.ipynb`: Main Colab notebook containing:
-  - Data preprocessing
-  - Model training
-  - Prediction fusion
-  - Vibration logic
-
----
 
 ## 👨‍💻 Author
 
